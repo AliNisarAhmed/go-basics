@@ -19,3 +19,7 @@ func init() {
   fmt.Println(qty)
   fmt.Println(wellknownPorts)
 }
+
+func Print_countries() {
+  fmt.Println(Countries[0])
+}
